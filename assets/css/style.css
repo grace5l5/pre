@@ -29,6 +29,12 @@ body {
     background-color: #6A9DE9 !important; /* YOU CAN SET COLOR HERE FOR CHANGING COLOR BACKGROUND*/
 }
 
+big-icon {
+    font-size: 32px;
+    color: #ffffff;
+
+}
+
 .video-counter {
 }
 
@@ -157,7 +163,7 @@ h4 {
         font-size: 30px;
     }
 
-#social-links a, a:hover {
+#social-links a {
     color: #ffffff;
     display: table;
     text-decoration: none;
