@@ -9,7 +9,7 @@
 
 var startDate = new Date("16/03/2014"); //THIS IS JUST FOR REFERENCE- DO NOT CHANGE THIS.
 
-var endDate = new Date("15/01/2018"); //CHANGE THIS TO YOUR LAUNCHING DATE
+var endDate = new Date("15/02/2019"); //CHANGE THIS TO YOUR LAUNCHING DATE
 
 var dif = endDate.getTime() - startDate.getTime();
 var difToSecond = dif / 1000;
